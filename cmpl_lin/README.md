@@ -1,4 +1,4 @@
-# src 
+# esrin compiler Linux
 Əsrin Proqramlaşdırma Mühiti Linux- Kompilyator
 
 Kompilyatoru quraşdırmaq üçün mənbə fayllarını köçürüb make əmrini daxil edin. Xəbərdarlıq ismarıclarına
